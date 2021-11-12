@@ -9,7 +9,7 @@ Overenthusiastic plant collector</em></p>
 ### I'm currently:
 <ul>
   <li>working my way through <a href="https://www.tryhackme.com/p/regexowl">TryHackMe</a></li>
-  <li>contributing to an <a href="https://github.com/minimization/content-resolver">open source project (implementing CI)</a></li>
+  <li>contributing to my first <a href="https://github.com/minimization/content-resolver">open source project</a> (implementing CI)</li>
 </ul>
 
 ### I want to:
