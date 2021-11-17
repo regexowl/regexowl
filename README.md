@@ -12,6 +12,8 @@ Overenthusiastic plant collector</em></p>
   <li>contributing to my first <a href="https://github.com/minimization/content-resolver">open source project</a> (implementing CI)</li>
 </ul>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/regexowl.png" alt="TryHackMe">
+
 ### I want to:
 <ul>
   <li>learn more about CI/CD</li>
