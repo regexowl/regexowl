@@ -1,5 +1,5 @@
 ## Hi there, I'm Klara! 👋
-<p><em>Tech newbie finding their place</br>
+<p><em>Looking for their place in tech</br>
 Overenthusiastic plant collector</em></p>
 
 ![Twitter: regexowl](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https://twitter.com/regexowl)
