@@ -1,6 +1,5 @@
 ## Hi there, I'm Klara! 👋
-<p><em>Looking for their place in tech</br>
-Overenthusiastic plant collector</em></p>
+<p><em>Overenthusiastic plant collector looking for their place in tech</em></p>
 
 ![Twitter: regexowl](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https://twitter.com/regexowl)
 ![LinkedIn: regexowl](https://img.shields.io/twitter/url?label=LinkedIn&logo=Linkedin&style=social&url=https://www.linkedin.com/in/klarasimickova/)
