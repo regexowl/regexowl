@@ -1,5 +1,5 @@
 ## Hi there, I'm Klara! 👋
-<p><em>Curious about tech and cybersec<br>
+<p><em>Curious about open source and cybersec<br>
 Overenthusiastic plant collector</em></p>
 
 ![Twitter: regexowl](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https://twitter.com/regexowl)
