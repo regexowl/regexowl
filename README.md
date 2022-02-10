@@ -12,7 +12,7 @@ Overenthusiastic plant collector</em></p>
   <li>implementing CI for the Minimization<a href="https://github.com/minimization/content-resolver"> project</a></li>
 </ul>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/regexowl.png" alt="TryHackMe">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/regexowl.png" alt="TryHackMe">
 
 ### I want to:
 <ul>
