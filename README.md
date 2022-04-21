@@ -4,18 +4,20 @@ Overenthusiastic plant collector</em></p>
 
 ![Twitter: regexowl](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https://twitter.com/regexowl)
 ![LinkedIn: regexowl](https://img.shields.io/twitter/url?label=LinkedIn&logo=Linkedin&style=social&url=https://www.linkedin.com/in/klarasimickova/)
-![](https://komarev.com/ghpvc/?username=regexowl&color=blue&style=flat)
 
 ### I'm currently:
 <ul>
   <li>working my way through <a href="https://www.tryhackme.com/p/regexowl">TryHackMe</a></li>
-  <li>implementing CI for the Minimization<a href="https://github.com/minimization/content-resolver"> project</a></li>
+  <li>exploring new programming languages and expanding my own <a href="https://github.com/regexowl/exploring-languages">Language Library</a></li>
+  <li>dipping my toes in sentiment analysis with <a href="https://github.com/regexowl/unreliable-sentiment-analysis">Totally Unreliable Sentiment Analysis project</a></li>
 </ul>
 
-### I want to:
+<img src="https://tryhackme-badges.s3.amazonaws.com/regexowl.png" alt="TryHackMe">
+
+### I'd like to:
 <ul>
-  <li>explore new languages and technologies</li>
   <li>find more open source projects to contribute to</li>
+  <li>learn more about machine learning</li>
   <li>knit a sweater on my own</li>
 </ul>
 
