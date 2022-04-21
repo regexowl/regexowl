@@ -12,7 +12,7 @@ Overenthusiastic plant collector</em></p>
   <li>dipping my toes in sentiment analysis with <a href="https://github.com/regexowl/unreliable-sentiment-analysis">Totally Unreliable Sentiment Analysis project</a></li>
 </ul>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/regexowl.png" alt="TryHackMe">
+<a href="https://www.tryhackme.com/p/regexowl"><img src="https://tryhackme-badges.s3.amazonaws.com/regexowl.png" alt="TryHackMe"></a>
 
 ### I'd like to:
 <ul>
