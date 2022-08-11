@@ -12,11 +12,4 @@ Overenthusiastic plant collector</em></p>
   <li>dipping my toes in sentiment analysis with <a href="https://github.com/regexowl/unreliable-sentiment-analysis">Totally Unreliable Sentiment Analysis project</a></li>
 </ul>
 
-### I'd like to:
-<ul>
-  <li>find more open source projects to contribute to</li>
-  <li>learn more about machine learning</li>
-  <li>knit a sweater on my own</li>
-</ul>
-
-<p><em>Introverted, but willing to discuss open source, plants and DnD. Tell me, what are you reading :)</em></p>
+<p>Introverted, but willing to discuss open source, plants and DnD.</p>
