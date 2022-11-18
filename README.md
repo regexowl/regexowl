@@ -2,7 +2,6 @@
 <p><em>Open source enthusiast / regex aficionado<br>
 Overenthusiastic plant collector</em> 🪴</p>
 
-![Twitter: regexowl](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https://twitter.com/regexowl)
 ![LinkedIn: regexowl](https://img.shields.io/twitter/url?label=LinkedIn&logo=Linkedin&style=social&url=https://www.linkedin.com/in/klarasimickova/)
 
 ### I'm currently:
